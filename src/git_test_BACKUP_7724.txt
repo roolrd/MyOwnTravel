@@ -1,0 +1,12 @@
+test1
+
+hjkh
+mhkbmb
+hjhm
+ghgjk
+
+<<<<<<< HEAD
+hello new branch
+=======
+branch master
+>>>>>>> master
